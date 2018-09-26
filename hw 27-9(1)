@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Profile Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="bg-img"></div>
+
+    <div id="profile-img"></div>
+
+    <h1 id="name">Hiếu Daxua</h1>
+    <h4 id="italic">The World best Daxua player</h4>
+    <p id="desc">Solo Daxua ko</p>
+    <br>
+    <br>
+    
+</body>
+</html>
