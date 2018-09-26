@@ -1,0 +1,31 @@
+#bg-img {
+    height: 360px;
+    width: 100%;
+    background-image: url(https://images2.alphacoders.com/694/thumb-1920-694704.png);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#profile-img {
+    background-image: url(https://scontent-hkg3-2.xx.fbcdn.net/v/t1.0-9/40551424_2212219132398521_4545957677175406592_n.jpg?_nc_cat=110&oh=8d53385e89b2e06c6092009cf1be461c&oe=5C593BC9);
+    width: 9%;
+    height: 120px;   
+    margin-top: -60px;
+    margin-left: 100px;
+    background-size: 140%;
+}
+
+
+
+#name {
+    margin-left: 100px;
+}
+
+#desc {
+    margin-left: 100px;
+}
+
+#italic {
+    font-style: italic;
+    margin-left: 100px;
+}
