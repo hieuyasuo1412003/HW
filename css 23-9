@@ -1,0 +1,13 @@
+#background-ele{
+     height: 500px;
+     width: 100%;
+     background-color: lightgreen;
+     background-image:url("https://images5.alphacoders.com/735/thumb-350-735950.jpg");
+     background-size:cover;
+     background-attachment:fixed;   
+ }
+ .bg-lightgreen{
+     width: 100%;
+     height: 1000px;
+     background-color: lightgreen;
+ }
